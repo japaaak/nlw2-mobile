@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
-import { View, Image, Text, Link, Linking } from 'react-native';
+import {
+ View, Image, Text, Link, Linking
+} from 'react-native';
 import { RectButton } from 'react-native-gesture-handler';
 import AsyncStorage from '@react-native-community/async-storage';
 
